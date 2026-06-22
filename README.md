@@ -99,13 +99,5 @@ The model demonstrates:
 
 - Dataset is highly imbalanced  
 - Unknown labels are excluded during training  
-- Full-graph training can be memory intensive  
 
----
-
-## Future Improvements  
-
-- Incorporate temporal dynamics  
-- Address class imbalance (weighted loss or resampling)  
-- Hyperparameter tuning  
 ``
